@@ -1,0 +1,143 @@
+{
+    "products": [
+        {
+            "id": 343,
+            "name": "Fashion Headphones",
+            "slug": "fashion-headphones",
+            "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
+            "price": 259.99,
+            "sale_price": null,
+            "review": 2,
+            "ratings": 5,
+            "until": null,
+            "stock": 100,
+            "top": true,
+            "featured": true,
+            "new": null,
+            "author": null,
+            "sold": null,
+            "category": [
+                {
+                    "name": "Electronics",
+                    "slug": "electronics"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "F&F",
+                    "slug": "fandf"
+                },
+                {
+                    "name": "UGG",
+                    "slug": "ugg"
+                }
+            ],
+            "pictures": [
+                {
+                    "width": "423",
+                    "height": "567",
+                    "url": "/uploads/h_phone_black_a1d454e3cc.jpg"
+                },
+                {
+                    "width": "465",
+                    "height": "567",
+                    "url": "/uploads/h_phone_white_d819da4f5a.jpg"
+                },
+                {
+                    "width": "465",
+                    "height": "567",
+                    "url": "/uploads/h_phone_red_c28911996e.jpg"
+                }
+            ],
+            "sm_pictures": [
+                {
+                    "width": "423",
+                    "height": "567",
+                    "url": "/uploads/h_phone_black_7f8a79c259.jpg"
+                },
+                {
+                    "width": "465",
+                    "height": "567",
+                    "url": "/uploads/h_phone_white_036c295c4d.jpg"
+                },
+                {
+                    "width": "465",
+                    "height": "567",
+                    "url": "/uploads/h_phone_red_281d8620cb.jpg"
+                }
+            ],
+            "variants": [
+                {
+                    "id": 63,
+                    "color": "#333333",
+                    "color_name": "Black",
+                    "price": 252.99,
+                    "size": [
+                        {
+                            "id": 164,
+                            "name": "Small",
+                            "slug": null
+                        },
+                        {
+                            "id": 170,
+                            "name": "Medium",
+                            "slug": null
+                        },
+                        {
+                            "id": 172,
+                            "name": "Large",
+                            "slug": null
+                        }
+                    ]
+                },
+                {
+                    "id": 64,
+                    "color": "#ebebeb",
+                    "color_name": "White",
+                    "price": 259.99,
+                    "size": [
+                        {
+                            "id": 171,
+                            "name": "Small",
+                            "slug": null
+                        },
+                        {
+                            "id": 165,
+                            "name": "Medium",
+                            "slug": null
+                        },
+                        {
+                            "id": 166,
+                            "name": "Large",
+                            "slug": null
+                        }
+                    ]
+                },
+                {
+                    "id": 65,
+                    "color": "#cb5050",
+                    "color_name": "Red",
+                    "price": 269.99,
+                    "size": [
+                        {
+                            "id": 167,
+                            "name": "Small",
+                            "slug": null
+                        },
+                        {
+                            "id": 168,
+                            "name": "Medium",
+                            "slug": null
+                        },
+                        {
+                            "id": 169,
+                            "name": "Large",
+                            "slug": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "posts": []
+}

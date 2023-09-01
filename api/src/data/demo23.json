@@ -1,0 +1,746 @@
+{
+    "products": [
+        {
+            "id": 345,
+            "name": "Tie detail top fashion",
+            "slug": "tie-detail-top-fashion",
+            "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien",
+            "price": 12,
+            "sale_price": null,
+            "review": 2,
+            "ratings": 4,
+            "until": null,
+            "stock": 100,
+            "top": null,
+            "featured": null,
+            "new": true,
+            "author": null,
+            "sold": null,
+            "category": [
+                {
+                    "name": "Women",
+                    "slug": "women"
+                },
+                {
+                    "name": "Clothing",
+                    "slug": "clothing"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Nike",
+                    "slug": "nike"
+                }
+            ],
+            "pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_4_1_2a6923e5a0.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_4_2_59afbf09aa.jpg"
+                }
+            ],
+            "sm_pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_4_1_2a6923e5a0.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_4_2_59afbf09aa.jpg"
+                }
+            ],
+            "variants": [
+                {
+                    "id": 85,
+                    "color": "#eabc4e",
+                    "color_name": "Yellow",
+                    "price": 13,
+                    "size": [
+                        {
+                            "id": 209,
+                            "name": "Extra Large",
+                            "slug": null
+                        }
+                    ]
+                },
+                {
+                    "id": 86,
+                    "color": "#66ea4e",
+                    "color_name": "Green",
+                    "price": 14,
+                    "size": [
+                        {
+                            "id": 210,
+                            "name": "Small",
+                            "slug": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 346,
+            "name": "Molla loafers",
+            "slug": "molla-loafers",
+            "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien",
+            "price": 34,
+            "sale_price": 14,
+            "review": 2,
+            "ratings": 3,
+            "until": null,
+            "stock": 100,
+            "top": null,
+            "featured": true,
+            "new": true,
+            "author": null,
+            "sold": null,
+            "category": [
+                {
+                    "name": "Women",
+                    "slug": "women"
+                },
+                {
+                    "name": "Shoes",
+                    "slug": "shoes"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "F&F",
+                    "slug": "fandf"
+                }
+            ],
+            "pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_2_1_0871ce286e.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_2_2_e0f61526f4.jpg"
+                }
+            ],
+            "sm_pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_2_1_0871ce286e.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_2_2_e0f61526f4.jpg"
+                }
+            ],
+            "variants": [
+                {
+                    "id": 69,
+                    "color": "#4f4f51",
+                    "color_name": "Black",
+                    "price": 14,
+                    "size": [
+                        {
+                            "id": 186,
+                            "name": "Small",
+                            "slug": null
+                        },
+                        {
+                            "id": 187,
+                            "name": "Medium",
+                            "slug": null
+                        }
+                    ]
+                },
+                {
+                    "id": 70,
+                    "color": "#6ca6b7",
+                    "color_name": "Blue",
+                    "price": 15,
+                    "size": [
+                        {
+                            "id": 188,
+                            "name": "Large",
+                            "slug": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 347,
+            "name": "Yellow women shopping bag",
+            "slug": "yellow-women-shopping-bag",
+            "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien",
+            "price": 24,
+            "sale_price": 18,
+            "review": 2,
+            "ratings": 4,
+            "until": null,
+            "stock": 100,
+            "top": null,
+            "featured": null,
+            "new": true,
+            "author": null,
+            "sold": null,
+            "category": [
+                {
+                    "name": "Bags",
+                    "slug": "bags"
+                },
+                {
+                    "name": "Women",
+                    "slug": "women"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Geox",
+                    "slug": "geox"
+                }
+            ],
+            "pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_3_1_ccf9ef7078.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_3_2_259f661849.jpg"
+                }
+            ],
+            "sm_pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_3_1_ccf9ef7078.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_3_2_259f661849.jpg"
+                }
+            ],
+            "variants": [
+                {
+                    "id": 71,
+                    "color": "#4f4f51",
+                    "color_name": "Black",
+                    "price": 18,
+                    "size": [
+                        {
+                            "id": 189,
+                            "name": "Small",
+                            "slug": null
+                        },
+                        {
+                            "id": 191,
+                            "name": "Large",
+                            "slug": null
+                        }
+                    ]
+                },
+                {
+                    "id": 72,
+                    "color": "#6ca6b7",
+                    "color_name": "Blue",
+                    "price": 19,
+                    "size": [
+                        {
+                            "id": 190,
+                            "name": "Medium",
+                            "slug": null
+                        }
+                    ]
+                },
+                {
+                    "id": 73,
+                    "color": "#bb9290",
+                    "color_name": "Yellow",
+                    "price": 20,
+                    "size": [
+                        {
+                            "id": 192,
+                            "name": "Extra Large",
+                            "slug": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 348,
+            "name": "Long hooded Y-shirt",
+            "slug": "long-hooded-y-shirt",
+            "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien",
+            "price": 12,
+            "sale_price": null,
+            "review": 2,
+            "ratings": 5,
+            "until": null,
+            "stock": 100,
+            "top": null,
+            "featured": true,
+            "new": true,
+            "author": null,
+            "sold": null,
+            "category": [
+                {
+                    "name": "Clothing",
+                    "slug": "clothing"
+                },
+                {
+                    "name": "Women",
+                    "slug": "women"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "F&F",
+                    "slug": "fandf"
+                }
+            ],
+            "pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_1_1_99e3843f23.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_1_2_eb1b8eff4c.jpg"
+                }
+            ],
+            "sm_pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_1_1_99e3843f23.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_1_2_eb1b8eff4c.jpg"
+                }
+            ],
+            "variants": [
+                {
+                    "id": 83,
+                    "color": "#da1717",
+                    "color_name": "Red",
+                    "price": 12,
+                    "size": [
+                        {
+                            "id": 206,
+                            "name": "Medium",
+                            "slug": null
+                        },
+                        {
+                            "id": 207,
+                            "name": "Large",
+                            "slug": null
+                        }
+                    ]
+                },
+                {
+                    "id": 84,
+                    "color": "#ebebeb",
+                    "color_name": "Grey",
+                    "price": 14,
+                    "size": [
+                        {
+                            "id": 208,
+                            "name": "Large",
+                            "slug": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 349,
+            "name": "Men cotton joggers",
+            "slug": "men-cotton-joggers",
+            "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien",
+            "price": 54,
+            "sale_price": null,
+            "review": 2,
+            "ratings": 4,
+            "until": null,
+            "stock": 100,
+            "top": null,
+            "featured": null,
+            "new": true,
+            "author": null,
+            "sold": null,
+            "category": [
+                {
+                    "name": "Clothing",
+                    "slug": "clothing"
+                },
+                {
+                    "name": "Men",
+                    "slug": "men"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Nike",
+                    "slug": "nike"
+                }
+            ],
+            "pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_2_1_790b2c2a32.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_2_2_876a4bbcb4.jpg"
+                }
+            ],
+            "sm_pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_2_1_790b2c2a32.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_2_2_876a4bbcb4.jpg"
+                }
+            ],
+            "variants": [
+                {
+                    "id": 75,
+                    "color": "#6ca6b7",
+                    "color_name": "Blue",
+                    "price": 55,
+                    "size": [
+                        {
+                            "id": 195,
+                            "name": "Large",
+                            "slug": null
+                        }
+                    ]
+                },
+                {
+                    "id": 74,
+                    "color": "#4f4f51",
+                    "color_name": "Black",
+                    "price": 54,
+                    "size": [
+                        {
+                            "id": 193,
+                            "name": "Small",
+                            "slug": null
+                        },
+                        {
+                            "id": 194,
+                            "name": "Medium",
+                            "slug": null
+                        }
+                    ]
+                },
+                {
+                    "id": 76,
+                    "color": "#bb9290",
+                    "color_name": "Yellow",
+                    "price": 55,
+                    "size": [
+                        {
+                            "id": 196,
+                            "name": "Medium",
+                            "slug": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 350,
+            "name": "Cotton Men Shirt",
+            "slug": "cotton-men-shirt",
+            "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien",
+            "price": 67,
+            "sale_price": null,
+            "review": 2,
+            "ratings": 4,
+            "until": null,
+            "stock": 100,
+            "top": null,
+            "featured": null,
+            "new": null,
+            "author": null,
+            "sold": null,
+            "category": [
+                {
+                    "name": "Men",
+                    "slug": "men"
+                },
+                {
+                    "name": "Clothing",
+                    "slug": "clothing"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Geox",
+                    "slug": "geox"
+                }
+            ],
+            "pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_3_1_1d5e053847.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_3_2_5a058851bf.jpg"
+                }
+            ],
+            "sm_pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_3_1_1d5e053847.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_3_2_5a058851bf.jpg"
+                }
+            ],
+            "variants": [
+                {
+                    "id": 81,
+                    "color": "#dab017",
+                    "color_name": "Yellow",
+                    "price": 67,
+                    "size": [
+                        {
+                            "id": 203,
+                            "name": "Large",
+                            "slug": null
+                        },
+                        {
+                            "id": 204,
+                            "name": "Extra Large",
+                            "slug": null
+                        }
+                    ]
+                },
+                {
+                    "id": 82,
+                    "color": "#1765da",
+                    "color_name": "Blue",
+                    "price": 68,
+                    "size": [
+                        {
+                            "id": 205,
+                            "name": "Small",
+                            "slug": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 351,
+            "name": "Men backpack",
+            "slug": "men-backpack",
+            "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien",
+            "price": 72,
+            "sale_price": null,
+            "review": 2,
+            "ratings": 3,
+            "until": null,
+            "stock": 100,
+            "top": null,
+            "featured": true,
+            "new": true,
+            "author": null,
+            "sold": null,
+            "category": [
+                {
+                    "name": "Accessories",
+                    "slug": "accessories"
+                },
+                {
+                    "name": "Men",
+                    "slug": "men"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Geox",
+                    "slug": "geox"
+                }
+            ],
+            "pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_4_1_ad21a5de2f.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_4_2_5731f88266.jpg"
+                }
+            ],
+            "sm_pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_4_1_ad21a5de2f.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_4_2_5731f88266.jpg"
+                }
+            ],
+            "variants": [
+                {
+                    "id": 79,
+                    "color": "#6ca6b7",
+                    "color_name": "Blue",
+                    "price": 74,
+                    "size": [
+                        {
+                            "id": 200,
+                            "name": "Large",
+                            "slug": null
+                        },
+                        {
+                            "id": 201,
+                            "name": "Extra Large",
+                            "slug": null
+                        }
+                    ]
+                },
+                {
+                    "id": 80,
+                    "color": "#ebebeb",
+                    "color_name": "Grey",
+                    "price": 72,
+                    "size": [
+                        {
+                            "id": 202,
+                            "name": "Medium",
+                            "slug": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 352,
+            "name": "Sports shoes",
+            "slug": "sports-shoes",
+            "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien",
+            "price": 33,
+            "sale_price": null,
+            "review": 2,
+            "ratings": 5,
+            "until": null,
+            "stock": 100,
+            "top": null,
+            "featured": null,
+            "new": true,
+            "author": null,
+            "sold": null,
+            "category": [
+                {
+                    "name": "Men",
+                    "slug": "men"
+                },
+                {
+                    "name": "Shoes",
+                    "slug": "shoes"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Nike",
+                    "slug": "nike"
+                }
+            ],
+            "pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_1_1_b96052db96.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_1_2_3a737db569.jpg"
+                }
+            ],
+            "sm_pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_1_1_b96052db96.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/product_1_2_3a737db569.jpg"
+                }
+            ],
+            "variants": [
+                {
+                    "id": 77,
+                    "color": "#333333",
+                    "color_name": "Black",
+                    "price": 30,
+                    "size": [
+                        {
+                            "id": 197,
+                            "name": "Small",
+                            "slug": null
+                        }
+                    ]
+                },
+                {
+                    "id": 78,
+                    "color": "#c96",
+                    "color_name": "Yellow",
+                    "price": 33,
+                    "size": [
+                        {
+                            "id": 198,
+                            "name": null,
+                            "slug": null
+                        },
+                        {
+                            "id": 199,
+                            "name": "Medium",
+                            "slug": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "posts": []
+}

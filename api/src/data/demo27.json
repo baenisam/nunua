@@ -1,0 +1,602 @@
+{
+    "products": [
+        {
+            "id": 98,
+            "name": "Trainers",
+            "slug": "trainers",
+            "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, ",
+            "price": 29.99,
+            "sale_price": null,
+            "review": 2,
+            "ratings": 4,
+            "until": null,
+            "stock": 203,
+            "top": true,
+            "featured": true,
+            "new": true,
+            "author": null,
+            "sold": 78,
+            "category": [
+                {
+                    "name": "Clothing",
+                    "slug": "clothing"
+                },
+                {
+                    "name": "Men",
+                    "slug": "men"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Nike",
+                    "slug": "nike"
+                }
+            ],
+            "pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/2_1_2639891b2f.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/2_2_7dc0f060e6.jpg"
+                }
+            ],
+            "sm_pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/2_1_2639891b2f.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/2_2_7dc0f060e6.jpg"
+                }
+            ],
+            "variants": []
+        },
+        {
+            "id": 146,
+            "name": "Cotton Twill Joggers",
+            "slug": "cotton-twill-joggers",
+            "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ",
+            "price": 17.99,
+            "sale_price": null,
+            "review": 2,
+            "ratings": 4,
+            "until": null,
+            "stock": 100,
+            "top": null,
+            "featured": true,
+            "new": true,
+            "author": null,
+            "sold": null,
+            "category": [
+                {
+                    "name": "Men",
+                    "slug": "men"
+                },
+                {
+                    "name": "Clothing",
+                    "slug": "clothing"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "UGG",
+                    "slug": "ugg"
+                },
+                {
+                    "name": "Nike",
+                    "slug": "nike"
+                }
+            ],
+            "pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/4_1_01c4943ac4.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/4_2_2558ec32ee.jpg"
+                }
+            ],
+            "sm_pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/4_1_01c4943ac4.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/4_2_2558ec32ee.jpg"
+                }
+            ],
+            "variants": []
+        },
+        {
+            "id": 159,
+            "name": "Long-Sleeved blouse",
+            "slug": "long-sleeved-blouse",
+            "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ",
+            "price": 84,
+            "sale_price": null,
+            "review": 2,
+            "ratings": 5,
+            "until": null,
+            "stock": 100,
+            "top": false,
+            "featured": true,
+            "new": true,
+            "author": null,
+            "sold": null,
+            "category": [
+                {
+                    "name": "Women",
+                    "slug": "women"
+                },
+                {
+                    "name": "Clothing",
+                    "slug": "clothing"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "New Balance",
+                    "slug": "new-balance"
+                }
+            ],
+            "pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/1_1_722fc64ccb.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/1_2_35caa0266b.jpg"
+                }
+            ],
+            "sm_pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/1_1_01d74d51a5.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/1_2_727a69b984.jpg"
+                }
+            ],
+            "variants": [
+                {
+                    "id": 40,
+                    "color": "#3399cc",
+                    "color_name": "Blue",
+                    "price": 84,
+                    "size": [
+                        {
+                            "id": 101,
+                            "name": "Large",
+                            "slug": null
+                        }
+                    ]
+                },
+                {
+                    "id": 39,
+                    "color": "#333333",
+                    "color_name": "Grey",
+                    "price": 80,
+                    "size": [
+                        {
+                            "id": 98,
+                            "name": "Medium",
+                            "slug": null
+                        },
+                        {
+                            "id": 99,
+                            "name": "Large",
+                            "slug": null
+                        },
+                        {
+                            "id": 100,
+                            "name": "Extra Large",
+                            "slug": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 286,
+            "name": "Cotton Shirt Slim Fit",
+            "slug": "cotton-shirt-slim-fit",
+            "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, ",
+            "price": 19.99,
+            "sale_price": null,
+            "review": 2,
+            "ratings": 4,
+            "until": null,
+            "stock": 100,
+            "top": false,
+            "featured": true,
+            "new": true,
+            "author": null,
+            "sold": 66,
+            "category": [
+                {
+                    "name": "Clothing",
+                    "slug": "clothing"
+                },
+                {
+                    "name": "Men",
+                    "slug": "men"
+                },
+                {
+                    "name": "Fashion & clothing",
+                    "slug": "fashion-and-clothing"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "River Island",
+                    "slug": "river-island"
+                },
+                {
+                    "name": "Nike",
+                    "slug": "nike"
+                }
+            ],
+            "pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/3_1_5ffe80640b.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/3_2_bdb88d23de.jpg"
+                }
+            ],
+            "sm_pictures": [
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/3_1_5ffe80640b.jpg"
+                },
+                {
+                    "width": "335",
+                    "height": "480",
+                    "url": "/uploads/3_2_bdb88d23de.jpg"
+                }
+            ],
+            "variants": []
+        },
+        {
+            "id": 313,
+            "name": "Linen-blend jumpsuit black",
+            "slug": "linen-blend-jumpsuit-black",
+            "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
+            "price": 17.99,
+            "sale_price": null,
+            "review": 2,
+            "ratings": 4,
+            "until": null,
+            "stock": 100,
+            "top": null,
+            "featured": true,
+            "new": null,
+            "author": null,
+            "sold": null,
+            "category": [
+                {
+                    "name": "Accessories",
+                    "slug": "accessories"
+                },
+                {
+                    "name": "Women",
+                    "slug": "women"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "UGG",
+                    "slug": "ugg"
+                },
+                {
+                    "name": "F&F",
+                    "slug": "fandf"
+                }
+            ],
+            "pictures": [
+                {
+                    "width": "446",
+                    "height": "700",
+                    "url": "/uploads/product_1_1_c45bde92cb.jpg"
+                },
+                {
+                    "width": "75",
+                    "height": "100",
+                    "url": "/uploads/product_1_1_1_2512c28c99.jpg"
+                }
+            ],
+            "sm_pictures": [
+                {
+                    "width": "446",
+                    "height": "700",
+                    "url": "/uploads/product_1_1_0c9ca3fa5d.jpg"
+                },
+                {
+                    "width": "75",
+                    "height": "100",
+                    "url": "/uploads/product_1_1_1_2512c28c99.jpg"
+                }
+            ],
+            "variants": []
+        },
+        {
+            "id": 315,
+            "name": "Black Sandals",
+            "slug": "black-sandals",
+            "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
+            "price": 199,
+            "sale_price": null,
+            "review": 2,
+            "ratings": 3,
+            "until": null,
+            "stock": 100,
+            "top": true,
+            "featured": true,
+            "new": null,
+            "author": null,
+            "sold": null,
+            "category": [
+                {
+                    "name": "Women",
+                    "slug": "women"
+                },
+                {
+                    "name": "Sandals",
+                    "slug": "sandals"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Nike",
+                    "slug": "nike"
+                }
+            ],
+            "pictures": [
+                {
+                    "width": "446",
+                    "height": "700",
+                    "url": "/uploads/product_1_2_fd504419a4.jpg"
+                }
+            ],
+            "sm_pictures": [
+                {
+                    "width": "446",
+                    "height": "700",
+                    "url": "/uploads/product_1_2_fd504419a4.jpg"
+                }
+            ],
+            "variants": []
+        },
+        {
+            "id": 316,
+            "name": "Brown Jumpsuit",
+            "slug": "brown-jumpsuit",
+            "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
+            "price": 17.99,
+            "sale_price": null,
+            "review": 2,
+            "ratings": 4,
+            "until": null,
+            "stock": 100,
+            "top": true,
+            "featured": true,
+            "new": null,
+            "author": null,
+            "sold": null,
+            "category": [
+                {
+                    "name": "Jackets",
+                    "slug": "jackets"
+                },
+                {
+                    "name": "Women",
+                    "slug": "women"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "New Balance",
+                    "slug": "new-balance"
+                }
+            ],
+            "pictures": [
+                {
+                    "width": "446",
+                    "height": "700",
+                    "url": "/uploads/product_1_3_d640cf9374.jpg"
+                }
+            ],
+            "sm_pictures": [
+                {
+                    "width": "446",
+                    "height": "700",
+                    "url": "/uploads/product_1_3_d640cf9374.jpg"
+                }
+            ],
+            "variants": []
+        },
+        {
+            "id": 318,
+            "name": "Men Fashion Jacket",
+            "slug": "men-fashion-jacket",
+            "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
+            "price": 199,
+            "sale_price": null,
+            "review": 2,
+            "ratings": 4,
+            "until": null,
+            "stock": 100,
+            "top": null,
+            "featured": null,
+            "new": null,
+            "author": null,
+            "sold": null,
+            "category": [
+                {
+                    "name": "Clothing",
+                    "slug": "clothing"
+                },
+                {
+                    "name": "Men",
+                    "slug": "men"
+                },
+                {
+                    "name": "Accessories",
+                    "slug": "accessories"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Nike",
+                    "slug": "nike"
+                }
+            ],
+            "pictures": [
+                {
+                    "width": "500",
+                    "height": "700",
+                    "url": "/uploads/product_2_2_c1c635c206.jpg"
+                },
+                {
+                    "width": "75",
+                    "height": "100",
+                    "url": "/uploads/product_1_1_1_2512c28c99.jpg"
+                }
+            ],
+            "sm_pictures": [
+                {
+                    "width": "500",
+                    "height": "700",
+                    "url": "/uploads/product_2_2_9079eda01b.jpg"
+                },
+                {
+                    "width": "75",
+                    "height": "100",
+                    "url": "/uploads/product_1_1_1_2512c28c99.jpg"
+                }
+            ],
+            "variants": []
+        },
+        {
+            "id": 319,
+            "name": "LInen-blend shirt",
+            "slug": "linen-blend-shirt",
+            "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
+            "price": 199.99,
+            "sale_price": null,
+            "review": 2,
+            "ratings": 3,
+            "until": null,
+            "stock": 100,
+            "top": null,
+            "featured": null,
+            "new": null,
+            "author": null,
+            "sold": null,
+            "category": [
+                {
+                    "name": "Clothing",
+                    "slug": "clothing"
+                },
+                {
+                    "name": "Men",
+                    "slug": "men"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Nike",
+                    "slug": "nike"
+                }
+            ],
+            "pictures": [
+                {
+                    "width": "500",
+                    "height": "700",
+                    "url": "/uploads/product_2_1_417978c88e.jpg"
+                }
+            ],
+            "sm_pictures": [
+                {
+                    "width": "500",
+                    "height": "700",
+                    "url": "/uploads/product_2_1_417978c88e.jpg"
+                }
+            ],
+            "variants": []
+        },
+        {
+            "id": 320,
+            "name": "Men Cotton Jacket",
+            "slug": "men-cotton-jacket",
+            "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
+            "price": 17.99,
+            "sale_price": null,
+            "review": 2,
+            "ratings": 4,
+            "until": null,
+            "stock": 100,
+            "top": null,
+            "featured": null,
+            "new": null,
+            "author": null,
+            "sold": null,
+            "category": [
+                {
+                    "name": "Clothing",
+                    "slug": "clothing"
+                },
+                {
+                    "name": "Men",
+                    "slug": "men"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Nike",
+                    "slug": "nike"
+                }
+            ],
+            "pictures": [
+                {
+                    "width": "500",
+                    "height": "700",
+                    "url": "/uploads/product_2_3_f3dfda310b.jpg"
+                }
+            ],
+            "sm_pictures": [
+                {
+                    "width": "500",
+                    "height": "700",
+                    "url": "/uploads/product_2_3_f3dfda310b.jpg"
+                }
+            ],
+            "variants": []
+        }
+    ],
+    "posts": []
+}
